@@ -33,5 +33,6 @@ function caclSumInConditon(array,num) {
 module.exports = {
     caclRemaindar,
     caclSum,
+    
     caclSumInConditon
 }
